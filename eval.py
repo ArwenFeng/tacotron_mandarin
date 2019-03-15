@@ -6,10 +6,9 @@ from synthesizer import Synthesizer
 
 
 sentences = [
-# 'wo3 men2 shi4 ha1 er3 bin1 gong1 ye4 da4 xue2 de5 xue2 sheng1',
+'wo3 men2 shi4 ha1 er3 bin1 gong1 ye4 da4 xue2 de5 xue2 sheng1',
 # 'jin1 tian1 shi4 ge5 qing2 tian1',
 # 'dian4 shi4 jv4 mi3 yue4 zhuan4 zhen1 hao3 kan4', 
- 'feng2 yi4 qing1 shi4 ha1 er3 bin1 gong1 ye4 da4 xue2 de5 xue2 sheng1',
 # From July 8, 2017 New York Times:
   #'Scientists at the CERN laboratory say they have discovered a new particle.',
   #'There’s a way to measure the acute emotional intelligence that has never gone out of style.',
