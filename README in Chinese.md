@@ -28,8 +28,7 @@
 1. **下载解压模型**
 
     [百度网盘](https://pan.baidu.com/s/1xekQvt7BgUlUuuZnJzVlZA) 密码：efkz 
-或者扫码下载
-![79098607b50113607150c7796cc30231.png](en-resource://database/631:1)
+    
 2. **运行demo_server.py**:
 * 注意: 当你运行[demo_server.py](demo_server.py)时， 你应当使用chinese_cleaners。记得在[hparams.py](hparams.py)中确认一下使用的是chinese_cleaners。
     ```
