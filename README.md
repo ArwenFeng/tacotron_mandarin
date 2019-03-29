@@ -32,14 +32,15 @@ The packages in requirements.txt may not be all necessary, I just freezed my wor
 ### Using a pre-trained model
 
 1. **Download and unpack a model**:
- url: https://pan.baidu.com/s/1xekQvt7BgUlUuuZnJzVlZA 
-password：efkz 
-Or you can scan the following QR code.
+
+* url: https://pan.baidu.com/s/1xekQvt7BgUlUuuZnJzVlZA    password：efkz 
+
+* Or you can scan the following QR code.
 ![79098607b50113607150c7796cc30231.png](en-resource://database/627:1)
 
 
 2. **Run the demo server**:
-Note that: When you run the demo server, you should use chinese_cleaners. Remember to confirm it in [hparams.py](hparams.py).
+* Note that: When you run the demo server, you should use chinese_cleaners. Remember to confirm it in [hparams.py](hparams.py).
     ```
     cleaners='chinese_cleaners',
     ```
@@ -49,6 +50,7 @@ Note that: When you run the demo server, you should use chinese_cleaners. Rememb
    ```
 
 3. **Point your browser at localhost:9000**
+
    * Type what you want to synthesize
 
 4. **Here are some input samples.**
