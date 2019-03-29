@@ -35,10 +35,6 @@ The packages in requirements.txt may not be all necessary, I just freezed my wor
 
 * url: https://pan.baidu.com/s/1xekQvt7BgUlUuuZnJzVlZA    password：efkz 
 
-* Or you can scan the following QR code.
-![79098607b50113607150c7796cc30231.png](en-resource://database/627:1)
-
-
 2. **Run the demo server**:
 * Note that: When you run the demo server, you should use chinese_cleaners. Remember to confirm it in [hparams.py](hparams.py).
     ```
