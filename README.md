@@ -33,7 +33,7 @@ The packages in requirements.txt may not be all necessary, I just freezed my wor
 
 1. **Download and unpack a model**:
 
-* url: https://pan.baidu.com/s/1xekQvt7BgUlUuuZnJzVlZA    password：efkz 
+* email:ArwenFeng@foxmail.com
 
 2. **Run the demo server**:
 * Note that: When you run the demo server, you should use chinese_cleaners. Remember to confirm it in [hparams.py](hparams.py).
