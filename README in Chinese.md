@@ -27,7 +27,7 @@
 
 1. **下载解压模型**
 
-    老板不让发，可以给我发邮件 Arwenfeng@foxmail.com
+    [百度网盘](https://pan.baidu.com/s/1xekQvt7BgUlUuuZnJzVlZA) 密码：efkz 
     
 2. **运行demo_server.py**:
 * 注意: 当你运行[demo_server.py](demo_server.py)时， 你应当使用chinese_cleaners。记得在[hparams.py](hparams.py)中确认一下使用的是chinese_cleaners。
